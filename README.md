@@ -1,6 +1,15 @@
-### Hi there 👋
+## *Kyeong Hyeok*
+💻 Backend Developer
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkyeong-hyeok&count_bg=%23BAB7B7&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+ [<img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=tistory&logoColor=white"/>](https://koeyhk.tistory.com/) 
+
+#### 🛠 Languages & Studying
+<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/> <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white"/> 
+
+---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyeong-hyeok&langs_count=10&layout=compact&theme=white)](https://github.com/kyeong-hyeok/kyeong-hyeok)
+
 <!--
 **kyeong-hyeok/kyeong-hyeok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +24,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
