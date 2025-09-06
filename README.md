@@ -2,7 +2,10 @@
 
 
 ### 💻 Backend Developer
- [<img src="https://img.shields.io/badge/Tistory-000000?style=square&logo=tistory&logoColor=white"/>](https://koeyhk.tistory.com/) 
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=Velog)](https://velog.io/@koeyhk) 
+[<img src="https://img.shields.io/badge/Tistory-000000?style=square&logo=tistory&logoColor=white"/>](https://koeyhk.tistory.com/)
+ 
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=koeyhk)](https://github.com/koeyhk/velog-readme-stats)
 
 
 ### 🛠 Tech Stack
